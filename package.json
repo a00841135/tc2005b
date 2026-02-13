@@ -1,0 +1,20 @@
+{
+  "name": "web_project",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a00841135/tc2005b.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a00841135/tc2005b/issues"
+  },
+  "homepage": "https://github.com/a00841135/tc2005b#readme"
+}
