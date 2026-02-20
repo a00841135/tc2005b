@@ -1,0 +1,10 @@
+
+
+.nav-item {
+    border-radius: 10px;
+    transition: background 0.3s ease;
+}
+
+.nav-item:hover {
+    background: #e8e9eb;
+}
