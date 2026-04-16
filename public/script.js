@@ -39,7 +39,7 @@ async function handleLogin() {
         clearFormInputs();
 
         if (data.isLogin === true) { 
-            sessionStorage.setItem("id", data.user.id);
+            sessionStorage.setItem("id", data.user.user_id);
             sessionStorage.setItem("username", data.user.username);
             window.location = "./about.html"
         } else {
